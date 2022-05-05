@@ -22,3 +22,9 @@ a img{
     display: flex;
     justify-content: center;
 }
+
+#final{
+    padding: 50px;
+    background-color: black;
+    float: right;
+}
