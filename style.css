@@ -1,0 +1,24 @@
+#titulo, #subtitulo{
+    font-family: 'Koulen', cursive;
+    color: beige;
+    text-align: center;
+}
+
+#titulo{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+body{
+    background-color: rgb(0, 0, 25);
+}
+
+a img{
+    opacity: 50%;
+    margin: 15px;
+}
+
+.selector{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
