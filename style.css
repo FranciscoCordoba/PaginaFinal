@@ -16,6 +16,11 @@ body{
 a img{
     opacity: 50%;
     margin: 15px;
+    transition-duration: 0.3s;
+}
+
+a img:hover{
+    opacity: 30%;
 }
 
 .selector{
