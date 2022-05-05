@@ -2,6 +2,7 @@
     font-family: 'Koulen', cursive;
     color: beige;
     text-align: center;
+    border: 0px;
 }
 
 #titulo{
@@ -21,10 +22,12 @@ a img{
     background-color: black;
     display: flex;
     justify-content: center;
+    border: 0px;
 }
 
 #final{
     padding: 50px;
     background-color: black;
     float: right;
+    border: 0px;
 }
